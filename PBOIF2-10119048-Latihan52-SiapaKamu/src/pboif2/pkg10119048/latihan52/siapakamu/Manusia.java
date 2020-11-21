@@ -11,7 +11,7 @@ package pboif2.pkg10119048.latihan52.siapakamu;
  * Nama      : Mochammad Faishal
  * NIM       : 10119048
  * Kelas     : IF2
- * Deskripsi : Manusia
+ * Deskripsi : Berisi program Manusia
  */
 public class Manusia {
     protected String nama;
